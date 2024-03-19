@@ -7,3 +7,6 @@ obj
 
 # Visual Studio folders
 .vs
+
+#Visual Studio Code folders
+.vscode
