@@ -1,0 +1,9 @@
+# Common folders
+bin
+obj
+
+#JetBrains folders
+.idea
+
+# Visual Studio folders
+.vs
