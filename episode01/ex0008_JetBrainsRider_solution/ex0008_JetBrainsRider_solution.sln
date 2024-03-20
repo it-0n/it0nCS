@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0008_JetBrainsRider_Project01", "ex0008_JetBrainsRider_Project01\ex0008_JetBrainsRider_Project01.csproj", "{DA7C9991-9CED-44FF-AB7A-AB4A243CE41E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0008_JetBrainsRider_Project02", "ex0008_JetBrainsRider_Project02\ex0008_JetBrainsRider_Project02.csproj", "{43933D9F-35D3-4EE2-BB3D-D9EE02C6EE9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA7C9991-9CED-44FF-AB7A-AB4A243CE41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7C9991-9CED-44FF-AB7A-AB4A243CE41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7C9991-9CED-44FF-AB7A-AB4A243CE41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7C9991-9CED-44FF-AB7A-AB4A243CE41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43933D9F-35D3-4EE2-BB3D-D9EE02C6EE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43933D9F-35D3-4EE2-BB3D-D9EE02C6EE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43933D9F-35D3-4EE2-BB3D-D9EE02C6EE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43933D9F-35D3-4EE2-BB3D-D9EE02C6EE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
