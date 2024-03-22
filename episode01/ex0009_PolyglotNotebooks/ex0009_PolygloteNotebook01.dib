@@ -1,0 +1,15 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"languageName":"csharp","name":"csharp"}]}}
+
+#!csharp
+
+#!about
+
+#!csharp
+
+Console.WriteLine("Hello, World!");
+
+#!csharp
+
+Console.WriteLine($"Hello, {System.Runtime.InteropServices.RuntimeInformation.OSDescription}");
