@@ -13,6 +13,7 @@ namespace ex0010_sum_of_two
             Console.Write("Введите второе число: ");
             var input2 = Console.ReadLine();
 
+            #region Проверка возможности преобразования строк в числа и вывод суммы
             if (double.TryParse(input1, NumberStyles.Any, CultureInfo.InvariantCulture, out double number1) &&
                 double.TryParse(input2, NumberStyles.Any, CultureInfo.InvariantCulture, out double number2))
             {
@@ -22,6 +23,7 @@ namespace ex0010_sum_of_two
             {  
                 Console.WriteLine("Некорректный ввод. Пожалуйста, введите числа.");
             }
+            #endregion
         }
     }
 }
