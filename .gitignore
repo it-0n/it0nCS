@@ -5,8 +5,9 @@ obj
 #JetBrains folders
 .idea
 
-# Visual Studio folders
+# Visual Studio folders and files
 .vs
+*.user
 
 #Visual Studio Code folders
 .vscode
