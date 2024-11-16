@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0011_literals", "ex0011_l
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0012_default_namespaces", "ex0012_default_namespaces\ex0012_default_namespaces.csproj", "{AA5559D4-AA7B-4CC3-BA0E-4634778145F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0013_disable_default_namespace", "ex0013_disable_default_namespace\ex0013_disable_default_namespace.csproj", "{3199E006-5377-4653-BC26-F8F6C0B8624A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AA5559D4-AA7B-4CC3-BA0E-4634778145F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA5559D4-AA7B-4CC3-BA0E-4634778145F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA5559D4-AA7B-4CC3-BA0E-4634778145F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3199E006-5377-4653-BC26-F8F6C0B8624A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3199E006-5377-4653-BC26-F8F6C0B8624A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3199E006-5377-4653-BC26-F8F6C0B8624A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3199E006-5377-4653-BC26-F8F6C0B8624A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
