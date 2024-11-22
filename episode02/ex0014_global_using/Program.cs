@@ -17,7 +17,7 @@ namespace ex0014_global_using
             WriteLine($"Имя компьютера {Env.MachineName}");     
             Write($"Текущий метод: ");
             ForegroundColor = ConsoleColor.Green;
-            WriteLine($"{System.Reflection.MethodBase.GetCurrentMethod()?.Name}");
+            WriteLine($"{MethodBase.GetCurrentMethod()?.Name}");
             ResetColor();
             var method = MethodBase.GetCurrentMethod();
             Write($"Полное имя текущего метода: ");
