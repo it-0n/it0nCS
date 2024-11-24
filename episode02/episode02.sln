@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0013_disable_default_name
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0014_global_using", "ex0014_global_using\ex0014_global_using.csproj", "{CA3BAF4A-4341-497A-A69F-08E0808ADF01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0014_pt01", "ex0014_pt01\ex0014_pt01.csproj", "{BC4E9C20-6ED1-4027-9513-40BEB5385D83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CA3BAF4A-4341-497A-A69F-08E0808ADF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA3BAF4A-4341-497A-A69F-08E0808ADF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA3BAF4A-4341-497A-A69F-08E0808ADF01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4E9C20-6ED1-4027-9513-40BEB5385D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4E9C20-6ED1-4027-9513-40BEB5385D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4E9C20-6ED1-4027-9513-40BEB5385D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4E9C20-6ED1-4027-9513-40BEB5385D83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
