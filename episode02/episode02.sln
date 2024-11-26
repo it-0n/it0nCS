@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0014_global_using", "ex00
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0014_pt01", "ex0014_pt01\ex0014_pt01.csproj", "{BC4E9C20-6ED1-4027-9513-40BEB5385D83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0015_integer_vars", "ex0015_integer_vars\ex0015_integer_vars.csproj", "{B6D5F3F3-A1B6-4D65-B450-2BB8AD1941DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BC4E9C20-6ED1-4027-9513-40BEB5385D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC4E9C20-6ED1-4027-9513-40BEB5385D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC4E9C20-6ED1-4027-9513-40BEB5385D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D5F3F3-A1B6-4D65-B450-2BB8AD1941DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D5F3F3-A1B6-4D65-B450-2BB8AD1941DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D5F3F3-A1B6-4D65-B450-2BB8AD1941DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D5F3F3-A1B6-4D65-B450-2BB8AD1941DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
