@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0020_double_decimal", "ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0021_real_literals", "ex0021_real_literals\ex0021_real_literals.csproj", "{2368297A-9CC5-4D03-A4AD-F0A895F58F05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0022_real_spec_val", "ex0022_real_spec_val\ex0022_real_spec_val.csproj", "{7E4E74C0-59BE-45CB-8B5F-85F89F053571}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{2368297A-9CC5-4D03-A4AD-F0A895F58F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2368297A-9CC5-4D03-A4AD-F0A895F58F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2368297A-9CC5-4D03-A4AD-F0A895F58F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4E74C0-59BE-45CB-8B5F-85F89F053571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4E74C0-59BE-45CB-8B5F-85F89F053571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4E74C0-59BE-45CB-8B5F-85F89F053571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4E74C0-59BE-45CB-8B5F-85F89F053571}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
