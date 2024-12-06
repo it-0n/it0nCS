@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0029_cahr_literals", "ex0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0030_char_operations", "ex0030_char_operations\ex0030_char_operations.csproj", "{B35C1647-D418-4ED5-823C-E563FF061695}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0030_enum_var", "ex0030_enum_var\ex0030_enum_var.csproj", "{ECBC9361-4379-49C8-9721-AD558E359450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0031_enum_operations", "ex0031_enum_operations\ex0031_enum_operations.csproj", "{74E05DCC-DC6D-4F05-A482-F455FB539268}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{B35C1647-D418-4ED5-823C-E563FF061695}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B35C1647-D418-4ED5-823C-E563FF061695}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B35C1647-D418-4ED5-823C-E563FF061695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBC9361-4379-49C8-9721-AD558E359450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBC9361-4379-49C8-9721-AD558E359450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBC9361-4379-49C8-9721-AD558E359450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBC9361-4379-49C8-9721-AD558E359450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E05DCC-DC6D-4F05-A482-F455FB539268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E05DCC-DC6D-4F05-A482-F455FB539268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E05DCC-DC6D-4F05-A482-F455FB539268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E05DCC-DC6D-4F05-A482-F455FB539268}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
