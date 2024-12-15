@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0033_struct_read_only_var
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0034_tuple_var", "ex0034_tuple_var\ex0034_tuple_var.csproj", "{D6EE4693-72C9-4293-8B66-0E23E041A624}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0036_null_var", "ex0036_null_var\ex0036_null_var.csproj", "{3F82B656-ECBB-47D2-8794-FFBAD49A07AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0035_tuple_operations", "ex0035_tuple_operations\ex0035_tuple_operations.csproj", "{9737B055-6E9D-4249-BCDA-58771478F5AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{D6EE4693-72C9-4293-8B66-0E23E041A624}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6EE4693-72C9-4293-8B66-0E23E041A624}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6EE4693-72C9-4293-8B66-0E23E041A624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F82B656-ECBB-47D2-8794-FFBAD49A07AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F82B656-ECBB-47D2-8794-FFBAD49A07AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F82B656-ECBB-47D2-8794-FFBAD49A07AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F82B656-ECBB-47D2-8794-FFBAD49A07AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9737B055-6E9D-4249-BCDA-58771478F5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9737B055-6E9D-4249-BCDA-58771478F5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9737B055-6E9D-4249-BCDA-58771478F5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9737B055-6E9D-4249-BCDA-58771478F5AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
