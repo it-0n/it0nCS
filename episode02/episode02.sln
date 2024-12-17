@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0036_null_var", "ex0036_n
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0035_tuple_operations", "ex0035_tuple_operations\ex0035_tuple_operations.csproj", "{9737B055-6E9D-4249-BCDA-58771478F5AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0037_null_val_var_operations", "ex0037_null_val_var_operations\ex0037_null_val_var_operations.csproj", "{8F4F3938-954C-47BD-AA28-188F338794A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{9737B055-6E9D-4249-BCDA-58771478F5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9737B055-6E9D-4249-BCDA-58771478F5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9737B055-6E9D-4249-BCDA-58771478F5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F4F3938-954C-47BD-AA28-188F338794A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4F3938-954C-47BD-AA28-188F338794A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4F3938-954C-47BD-AA28-188F338794A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4F3938-954C-47BD-AA28-188F338794A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
