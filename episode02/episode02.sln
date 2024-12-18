@@ -67,7 +67,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0038_box_var", "ex0038_bo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0039_set_var", "ex0039_set_var\ex0039_set_var.csproj", "{C34AE9C0-CB29-4266-9D4D-F836AC199C7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0040_oreder_ops", "ex0040_oreder_ops\ex0040_oreder_ops.csproj", "{AC226367-0BD9-4009-ADAA-4F90B8A47D2F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0040_order_ops", "ex0040_order_ops\ex0040_order_ops.csproj", "{AC226367-0BD9-4009-ADAA-4F90B8A47D2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
