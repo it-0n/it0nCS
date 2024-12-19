@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0040_order_ops", "ex0040_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0041_ref_types", "ex0041_ref_types\ex0041_ref_types.csproj", "{F79D7761-C692-4F5D-9C7F-BFDB00D3201C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0042_ref_vars", "ex0042_ref_vars\ex0042_ref_vars.csproj", "{66066A32-64A6-4B23-8FB0-570EA4540D75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{F79D7761-C692-4F5D-9C7F-BFDB00D3201C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F79D7761-C692-4F5D-9C7F-BFDB00D3201C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F79D7761-C692-4F5D-9C7F-BFDB00D3201C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66066A32-64A6-4B23-8FB0-570EA4540D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66066A32-64A6-4B23-8FB0-570EA4540D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66066A32-64A6-4B23-8FB0-570EA4540D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66066A32-64A6-4B23-8FB0-570EA4540D75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
