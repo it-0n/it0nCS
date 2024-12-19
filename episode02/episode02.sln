@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0042_ref_vars", "ex0042_r
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0043_const", "ex0043_const\ex0043_const.csproj", "{8CE494ED-06F1-44E7-A920-42C40D3A8BE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0044_ref_default_val", "ex0044_ref_default_val\ex0044_ref_default_val.csproj", "{C149D4CC-FF0A-448F-B7F2-6B4C5988916B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{8CE494ED-06F1-44E7-A920-42C40D3A8BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CE494ED-06F1-44E7-A920-42C40D3A8BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CE494ED-06F1-44E7-A920-42C40D3A8BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C149D4CC-FF0A-448F-B7F2-6B4C5988916B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C149D4CC-FF0A-448F-B7F2-6B4C5988916B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C149D4CC-FF0A-448F-B7F2-6B4C5988916B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C149D4CC-FF0A-448F-B7F2-6B4C5988916B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
