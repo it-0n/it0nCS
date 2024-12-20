@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0045_null_enable", "ex004
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0046_null_disable", "ex0046_null_disable\ex0046_null_disable.csproj", "{FA52E36D-5F63-4535-9FA8-F5BA7E0B74D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0047_var_var", "ex0047_var_var\ex0047_var_var.csproj", "{F028CCED-60B9-4A35-A05A-5B9C0BE7B21C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{FA52E36D-5F63-4535-9FA8-F5BA7E0B74D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA52E36D-5F63-4535-9FA8-F5BA7E0B74D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA52E36D-5F63-4535-9FA8-F5BA7E0B74D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F028CCED-60B9-4A35-A05A-5B9C0BE7B21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F028CCED-60B9-4A35-A05A-5B9C0BE7B21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F028CCED-60B9-4A35-A05A-5B9C0BE7B21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F028CCED-60B9-4A35-A05A-5B9C0BE7B21C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
