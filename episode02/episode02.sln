@@ -77,6 +77,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0043_const", "ex0043_cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0044_ref_default_val", "ex0044_ref_default_val\ex0044_ref_default_val.csproj", "{C149D4CC-FF0A-448F-B7F2-6B4C5988916B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0045_null_enable", "ex0045_null_enable\ex0045_null_enable.csproj", "{4F678C43-3FCF-43C7-8BC7-5D39424083FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0046_null_disable", "ex0046_null_disable\ex0046_null_disable.csproj", "{FA52E36D-5F63-4535-9FA8-F5BA7E0B74D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +235,14 @@ Global
 		{C149D4CC-FF0A-448F-B7F2-6B4C5988916B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C149D4CC-FF0A-448F-B7F2-6B4C5988916B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C149D4CC-FF0A-448F-B7F2-6B4C5988916B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F678C43-3FCF-43C7-8BC7-5D39424083FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F678C43-3FCF-43C7-8BC7-5D39424083FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F678C43-3FCF-43C7-8BC7-5D39424083FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F678C43-3FCF-43C7-8BC7-5D39424083FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA52E36D-5F63-4535-9FA8-F5BA7E0B74D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA52E36D-5F63-4535-9FA8-F5BA7E0B74D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA52E36D-5F63-4535-9FA8-F5BA7E0B74D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA52E36D-5F63-4535-9FA8-F5BA7E0B74D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
