@@ -109,6 +109,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0059_string_trim_replace"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0060_string_padding", "ex0060_string_padding\ex0060_string_padding.csproj", "{4AB036F4-C61B-4BE2-9194-E89AD20300FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0061_string_create", "ex0061_string_create\ex0061_string_create.csproj", "{A5E47185-57D2-4D4C-A39D-81363FCBBBF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0062_string_cahange_case", "ex0062_string_cahange_case\ex0062_string_cahange_case.csproj", "{C0218AA7-A553-4623-9E3B-6D83494C6380}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,6 +331,14 @@ Global
 		{4AB036F4-C61B-4BE2-9194-E89AD20300FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AB036F4-C61B-4BE2-9194-E89AD20300FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AB036F4-C61B-4BE2-9194-E89AD20300FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5E47185-57D2-4D4C-A39D-81363FCBBBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E47185-57D2-4D4C-A39D-81363FCBBBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E47185-57D2-4D4C-A39D-81363FCBBBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E47185-57D2-4D4C-A39D-81363FCBBBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0218AA7-A553-4623-9E3B-6D83494C6380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0218AA7-A553-4623-9E3B-6D83494C6380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0218AA7-A553-4623-9E3B-6D83494C6380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0218AA7-A553-4623-9E3B-6D83494C6380}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
