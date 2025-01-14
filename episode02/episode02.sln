@@ -121,6 +121,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0065_string_normalize", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0066_string_isnormalize", "ex0066_string_isnormalize\ex0066_string_isnormalize.csproj", "{63099CB6-F90D-4782-960C-17C2FA2ABEDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0067_string_replace", "ex0067_string_replace\ex0067_string_replace.csproj", "{4D918004-4969-4765-BCAB-9995DA45EA51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +365,10 @@ Global
 		{63099CB6-F90D-4782-960C-17C2FA2ABEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63099CB6-F90D-4782-960C-17C2FA2ABEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63099CB6-F90D-4782-960C-17C2FA2ABEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D918004-4969-4765-BCAB-9995DA45EA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D918004-4969-4765-BCAB-9995DA45EA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D918004-4969-4765-BCAB-9995DA45EA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D918004-4969-4765-BCAB-9995DA45EA51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
