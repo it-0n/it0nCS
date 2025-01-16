@@ -131,6 +131,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0070_string_datetime", "e
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0071_string_other", "ex0071_string_other\ex0071_string_other.csproj", "{8D6EEAC7-E908-4877-AD86-9F39D59A3464}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0072_stringbuilder", "ex0072_stringbuilder\ex0072_stringbuilder.csproj", "{B84BFB0A-1644-49A5-8292-C4F19F6F7C74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -393,6 +395,10 @@ Global
 		{8D6EEAC7-E908-4877-AD86-9F39D59A3464}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D6EEAC7-E908-4877-AD86-9F39D59A3464}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D6EEAC7-E908-4877-AD86-9F39D59A3464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84BFB0A-1644-49A5-8292-C4F19F6F7C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84BFB0A-1644-49A5-8292-C4F19F6F7C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84BFB0A-1644-49A5-8292-C4F19F6F7C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84BFB0A-1644-49A5-8292-C4F19F6F7C74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
