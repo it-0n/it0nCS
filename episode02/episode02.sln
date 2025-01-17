@@ -135,6 +135,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0072_stringbuilder", "ex0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0073_stringbuilder_deeper", "ex0073_stringbuilder_deeper\ex0073_stringbuilder_deeper.csproj", "{37C666A9-3226-446B-BE95-3F38F6915A6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0075_user_input", "ex0075_user_input\ex0075_user_input.csproj", "{8C60B1EF-E9ED-45F7-95BE-264D6134D3D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -405,6 +407,10 @@ Global
 		{37C666A9-3226-446B-BE95-3F38F6915A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37C666A9-3226-446B-BE95-3F38F6915A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37C666A9-3226-446B-BE95-3F38F6915A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C60B1EF-E9ED-45F7-95BE-264D6134D3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C60B1EF-E9ED-45F7-95BE-264D6134D3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C60B1EF-E9ED-45F7-95BE-264D6134D3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C60B1EF-E9ED-45F7-95BE-264D6134D3D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
