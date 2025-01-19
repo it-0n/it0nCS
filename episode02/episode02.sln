@@ -143,6 +143,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0076pt01", "ex0076pt01\ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0076pt02", "ex0076pt02\ex0076pt02.csproj", "{3A3345E0-F8A3-443B-A0DC-A4266F8BDCC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0077_readkey", "ex0077_readkey\ex0077_readkey.csproj", "{D301C6A6-9CFB-4E14-8147-F93F697391CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -429,6 +431,10 @@ Global
 		{3A3345E0-F8A3-443B-A0DC-A4266F8BDCC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A3345E0-F8A3-443B-A0DC-A4266F8BDCC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A3345E0-F8A3-443B-A0DC-A4266F8BDCC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D301C6A6-9CFB-4E14-8147-F93F697391CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D301C6A6-9CFB-4E14-8147-F93F697391CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D301C6A6-9CFB-4E14-8147-F93F697391CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D301C6A6-9CFB-4E14-8147-F93F697391CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
