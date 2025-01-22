@@ -145,6 +145,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0076pt02", "ex0076pt02\ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0077_readkey", "ex0077_readkey\ex0077_readkey.csproj", "{D301C6A6-9CFB-4E14-8147-F93F697391CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0078_readkey_available", "ex0078_readkey_available\ex0078_readkey_available.csproj", "{D32DC123-EBBB-4460-AF0B-439799654915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex0079_star_defender", "ex0079_star_defender\ex0079_star_defender.csproj", "{D50F3C8C-1E80-418A-811A-DDDCC14B964A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -435,6 +439,14 @@ Global
 		{D301C6A6-9CFB-4E14-8147-F93F697391CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D301C6A6-9CFB-4E14-8147-F93F697391CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D301C6A6-9CFB-4E14-8147-F93F697391CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32DC123-EBBB-4460-AF0B-439799654915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32DC123-EBBB-4460-AF0B-439799654915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32DC123-EBBB-4460-AF0B-439799654915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32DC123-EBBB-4460-AF0B-439799654915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50F3C8C-1E80-418A-811A-DDDCC14B964A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50F3C8C-1E80-418A-811A-DDDCC14B964A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50F3C8C-1E80-418A-811A-DDDCC14B964A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50F3C8C-1E80-418A-811A-DDDCC14B964A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
